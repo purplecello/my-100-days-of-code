@@ -9,7 +9,7 @@
 
 ### Day 0: 16/12/23 
 
-**Today's Progress**: Started [freecodecamp's](https://www.freecodecamp.org/learn/2022/responsive-web-design/) certification course.
+**Today's Progress**: Started [freecodecamp's Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) certification course.
 
 **Thoughts:** This is for very beginners, after the first two courses, I jumped to the certification projects and completed "Survey Form" and "Tribute Page"
 
