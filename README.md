@@ -7,7 +7,7 @@
 
 ## 100 Days Of Code - Log
 
-### Day 0: 16/12/23 
+### Day 1: 16/12/23 
 
 **Today's Progress**: Started [freecodecamp's Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) certification course.
 
@@ -15,13 +15,27 @@
 
 **Link to work:** (none - used freecodecamp's editor)
 
-### Day 1: 18/12/23 
+### Day 2: 17/12/23
+**Today's Progress**: Completed [freecodecamp's](https://www.freecodecamp.org/learn/2022/responsive-web-design/) third ("Technical Documentation") certification project.
 
-**Today's Progress**: Completed [freecodecamp's](https://www.freecodecamp.org/learn/2022/responsive-web-design/) third ("Technical Documentation", fourth ("Product Page") and final ("Personal Portfolio" certification project, and got my free "Responsive Web Design Certification"!
+### Day 3: 18/12/23 
+
+**Today's Progress**: Completed [freecodecamp's](https://www.freecodecamp.org/learn/2022/responsive-web-design/) fourth ("Product Page") and final ("Personal Portfolio") certification project, and got my free "Responsive Web Design Certification"!
 
 **Thoughts:** I am thinking whether to take reecodecamp's next course, "JavaScript Algorithms and Data Structures". I am worried the level will be directed to complete beginners, and will not be able to get motivated enough.
 
-**Link to work:** (none - used freecodecamp's editor)
+### Day 4: 19/12/23
+
+**Today's Progress**: Started an Udemy course on JavaScript.
+
+### Day 5: 20/12/23
+
+**Today's Progress**: I worked through a few of the basic js challenges of the Udemy course
+
+**Thoughts:** Up to now, I am quite happy with the course's pace
+
+**Link to work:** [js-challenges repo](https://github.com/purplecello/js-challenges/blob/main/01-basic-challenges-part-1.js)
+
 
 ## If you've decided to join:
 
