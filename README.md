@@ -36,6 +36,15 @@
 
 **Link to work:** [js-challenges repo](https://github.com/purplecello/js-challenges/blob/main/01-basic-challenges-part-1.js)
 
+### Day 6: 21/12/23
+
+**Today's Progress**: Finished the 2d part of basic js challenges
+
+**Thoughts:** Some more challenging exercises, I am happy with how this is going.
+
+**Link to work:** [js-challenges repo](https://github.com/purplecello/js-challenges/blob/main/02-basic-challenges-part-2.js)
+
+
 
 ## If you've decided to join:
 
