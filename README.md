@@ -42,6 +42,14 @@
 
 **Thoughts:** Some more challenging exercises, I am happy with how this is going.
 
+**Link to work:** [js-challenges repo](https://github.com/purplecello/js-challenges/blob/main/03-high-order-arrays.js)
+
+### Day 7: 22/12/23
+
+**Today's Progress**: Started part 3, high order array methods
+
+**Thoughts**: Difficulty is ramping up a little, I feel I am really trying and really learning.
+
 **Link to work:** [js-challenges repo](https://github.com/purplecello/js-challenges/blob/main/02-basic-challenges-part-2.js)
 
 
